@@ -1,0 +1,134 @@
+.coba {
+  background-color: #202c33;
+}
+.wa {
+  font-size: 10px;
+}
+.icon {
+  opacity: 0.5;
+}
+.cari {
+  display: flex;
+  margin:17px;
+  margin-right: 2.5rem;
+  padding: 30px;
+}
+.camera {
+  display: relative;
+  margin: -3px;
+  padding: 1em;
+}
+.hijau {
+  background-color:rgba(0 ,168 ,132);
+}
+.bg {
+  background-color: rgba(17,27,33);
+}
+.pesan {
+  display: flex;
+  max-height: 73px;
+}
+
+.pesan2 {
+  display: relative;
+}
+.rounded-circle {
+  border-radius: 50% !important;
+}
+.rounded {
+  border-radius: 0.25rem !important;
+}
+.col1 {
+  max-width: 100px;
+  margin:10px;
+  margin-top:20px;
+}
+.col2 {
+  max-width: 100px;
+  margin:10px;
+  margin-top:6px;
+}
+.foto {
+  margin-left:18px;
+}
+.kontak {
+  color: white;
+  display: flex;
+}
+
+.check {
+  opacity: 0.5;
+  color: white;
+}
+.chat {
+  color: white;
+  display: flex;
+  font-size:15px;
+  margin-top:53px;
+  margin-left:-33px;
+  opacity: 0.5;
+}
+.chat2 {
+  color: white;
+  display: flex;
+  font-size:15px;
+  margin-top:37px;
+  margin-left:-63px;
+  opacity: 0.5;
+}
+.waktu {
+  display: flex;
+  justify-content: end;
+  color:white;
+  margin-left:195px;
+  margin-top:32px;
+  opacity: 0.5;
+  font-size: 12px;
+}
+.waktu2 {
+  display: flex;
+  justify-content: end;
+  color:rgb(2,169,133);
+  margin-left:195px;
+  margin-top:25px;
+  font-size: 12px;
+}
+.row3{
+  display:flex;
+  margin-top:-19px
+}
+.btn-sm, .btn-group-sm > .btn {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+  border-radius: 0.2rem;
+  width: 10px;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: rgba(0 ,168 ,132);
+  border-color: rgba(0 ,168 ,132);
+}
+.rounded-pill {
+  border-radius: 50rem !important;
+}
+.read {
+  display: flex;
+  color: rgba(0 ,168 ,132);
+}
+.arship {
+  color: white;
+  opacity: 0.5;
+  margin-left: 15px;
+  margin-top:5px ;
+  margin-right: 15px;
+}
+.total {
+  display: flex;
+  justify-content: end;
+  color:white;
+  margin-left:210px;
+  margin-top:32px;
+  opacity: 0.5;
+  font-size: 12px;
+}
